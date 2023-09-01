@@ -1,0 +1,93 @@
+    body, html {
+        width: 100%;
+        height: 100%;
+        background-image: url(images/background.png);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        font-family: 'montserrat';
+    }
+
+/*==================================================== navbar */
+    #navigation {
+        background: #0c2f55;
+    }
+    .nav-element {
+        margin-left: 40px;
+    }
+    .login-form {
+        min-width: 340px;
+        margin: 20px;
+    }
+    .logIn {
+        margin: 10px;
+    }
+
+    /*=============================================== buttonGrid */
+    .middle {
+        display: none;
+        margin: 70px 0px;
+        background-color: white;
+        border: 1px solid #BFBFBF;
+        box-shadow: 10px -10px 15px #838383;
+    }
+    .Lpill {
+        padding-left: 3em;
+        background: #0c2f55;
+        border-top-left-radius: 6em;
+        border-bottom-left-radius: 6em;
+        text-decoration: line-through;
+    }
+    .Rpill {
+        padding-right: 3em;
+        background: #0c2f55;
+        border-top-right-radius: 6em;
+        border-bottom-right-radius: 6em;
+    }
+    .icon {
+        width: 100px;
+        float: left;
+        margin: 10px;
+        color: #e7e7e7;
+        list-style: none;
+        line-height: 1.2em;
+        text-decoration: none;
+    }
+    .icon-image {
+        width: 60px;
+        margin-top: 10px;
+        border-radius: 10px;
+        background: #e0e0e0;
+    }
+
+/*============================================= Payment Dtails */
+.heading {
+    font-size: 2em;
+    color: #0c2f55;
+    text-decoration: underline;
+}
+.tab-control, #tab {
+    min-width: 150px;
+}
+.input-group {
+    padding: 0.4em;
+}
+.submit-button {
+    color: #e0e0e0;
+    margin-top: 20px;
+    background: #0c2f55;
+}
+
+/*============================================= contentDownload */
+    .row1-col2 {
+        padding-top: 30px;
+    }
+    .app-link {
+        width: 90%;
+        margin-bottom: 5px;
+    }
+    .fa-check-circle {
+        color: #0c2f55;
+    }
+
+/*=============================================  */
